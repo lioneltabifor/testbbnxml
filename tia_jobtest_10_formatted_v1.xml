@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?><ProcessPositionOpening xmlns="http://www.hr-xml.org/3" xmlns:oa="http://www.openapplications.org/oagis/9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:jc-scripts" systemEnvironmentCode="Production" releaseID="3.2" languageCode="en-US" xsi:schemaLocation="http://www.hr-xml.org/3"><oa:ApplicationArea><oa:Sender><oa:LogicalID>3</oa:LogicalID><oa:ComponentID>5</oa:ComponentID></oa:Sender><oa:Receiver><oa:LogicalID/><oa:ID>9028</oa:ID></oa:Receiver><oa:CreationDateTime>2024-08-21T09:01:45</oa:CreationDateTime><oa:BODID>475B9DFDA760-4D52-AD63-2DAD9CBB5C4A</oa:BODID></oa:ApplicationArea><oa:Process acknowledgeCode="Never"><oa:ActionCriteria><oa:ActionExpression actionCode="Add"/></oa:ActionCriteria></oa:Process><PositionOpening validFrom="2024-08-16T05:03:45"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">264295732</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">f4f33faa5fc64e7ab373028ac6cdd140</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/f4f33faa5fc64e7ab373028ac6cdd1409028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Site Manager]]></PositionTitle><PositionLocation><LocationName>AK-Elmendorf AFB</LocationName><ReferenceLocation><oa:CityName>Elmendorf AFB</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99506</oa:PostalCode><SpatialLocation><Latitude>61.2321</Latitude><Longitude>-149.7892</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">55926</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Amentum</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">27-1628265</OrganizationTaxID><OrganizationEmail>tia73d7ae5678ddaed8d0bfc1ae8c56e188@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">55926</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>Amentum</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">27-1628265</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-3051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-1011.02</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-3051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-3051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-3051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-3051.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[This position will be located at Joint Base Elmendorf-Richardson (JBER) in Alaska.
+
+Purpose and Scope:
+
+The Site Manager manages all operational, administrative and life support functions and activities at the designated site. Directs the accomplishment of site-specific program goals and monitors and reports their achievement. Manages an operating budget, manpower, resources, and facilities in performance of contract responsibilities. Ensures compliance with Performance Work Statement (PWS) and program ISO 9001:2015 Quality Management System (QMS).
+
+Essential Responsibilities:
+
+Responsible for ensuring contract requirements are met at the respective site. Ensures sufficient resources are provided to meet PWS requirements, Amentum Internal policies and procedures, and ensures site personnel adhere to established Host Nation laws, US Government directives, and Amentum policies and procedures.
+
+Supervises all contract activities and serves as the principal representative for the program in all matters pertaining to the contract at respective site.
+
+Attends Program Management Review conferences and briefs senior company and US Government officials on site activities and issues affecting the program performance.
+
+Activities include the functions of personnel and finance; training; support services; vehicle and fuels related maintenance; supply and inventory management; freight traffic management; equipment major repair and maintenance; and facilities maintenance
+
+Performs overall planning, coordinates the efforts of detailed planning and continually measures and analyzes progress.
+
+Provides for sufficient and viable contract performance through effective leadership of the site, to include compliance with quality and safety/environmental standards.
+
+Provides the leadership necessary to effectively form and manage quality teams.
+
+Is able to respond rapidly and sufficiently to changing requirements, unexpected contingencies and other challenging situations.
+
+Provides for the welfare of the personnel and the enhancement of the contract, to include optimizing the balance between resources of manpower, equipment, time, materials and money.
+
+Responsible for keeping the Company, Corporate Management, and interested US Government personnel appraised on current status of operations and maintenance and any other special interest items.
+
+Performs other duties as assigned.
+
+Minimum Position Knowledge, Skills, and Abilities Required:
+
+Must be proficient in the use of personal computers and Windows Operating System and Microsoft Office to include as a minimum Power Point, Excel, and Word programs.
+
+Excellent leadership skills with the ability to manage and supervise others required.
+
+Must possess excellent oral and written communication skills as well as good decision-making skills.
+
+Demonstrated ability to meet goals while working independently under limited supervision required.
+
+Must be able to handle confidential information and exercise discretionary judgment.
+
+Knowledge of operations research/systems analysis methods and techniques is desired.
+
+Must possess a valid home country driver's license and ability to obtain host nation driver's license.
+
+Experience managing available resources in time sensitive situations preferred.
+
+Experience with financial and costing procedures preferred.
+
+Experience with work production and scheduling preferred.
+
+Experience managing multi-disciplinary teams within one or more of the functional areas (Supply, Transportation, Munitions, Vehicle and Harvest Falcon Equipment Maintenance, Fuels Mobility Support Maintenance, Medical Supply and Maintenance, or Aerospace Ground Equipment Maintenance) is preferred.
+
+Experience in ISO 9001 is desired.
+
+Contract Requirements in accordance with Appendix J:
+
+Must be eligible to obtain and maintain a US Secret Security Clearance
+
+Undergraduate degree required from accredited college or university.
+
+6 years of management experience in related type programs. A minimum of 10
+
+years management experience in related type programs is acceptable in lieu of an undergraduate degree.
+
+Work Environment, Physical Demands, and Mental Demands:
+
+OCONUS: Living and working conditions at the assignment location could be remote and uncomfortable. Long hours, exposure to weather and hazardous conditions.
+
+Ability to travel domestically and internationally.
+
+Works in normal office and maintenance shop or warehouse environment and may be required to work outdoors for extended periods.
+
+Will be required to wear proper Personal Protective Equipment (PPE) according to prescribed procedures and as required for task being performed.
+
+Physically capable of performing all required duties; capable of lifting/pushing/pulling minimum of 50 lbs.
+
+Other Responsibilities:
+
+Safety - AMENTUM enforces a safety culture whereby all employees have the responsibility for continuously developing and maintaining a safe work environment. As appropriate, each employee is responsible for completing all training requirements and fulfilling all self-aid/buddy aid responsibilities, participating in emergency response tasks and serving on safety committees and teams.
+
+Quality - Quality is the foundation for the management of our business and the keystone to our goal of customer satisfaction. It is our policy to consistently provide services that meet customer expectations. Accordingly, each employee must conform to the AMENTUM Quality Policy and carry out job activities in compliance with applicable AMENTUM Quality System documents and customer contracts. Each employee must read and understand his/her Quality Management and Customer Satisfaction responsibilities.
+
+Procedure Compliance - Each employee must read, understand and implement the general and specific operational, safety, quality and environmental requirements of all plans, procedures and policies pertaining to his/her job.
+
+Amentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, religion, color, sex, gender, national origin, age, United States military veteran's status, ancestry, sexual orientation, marital status, family structure, medical condition including genetic characteristics or information, veteran status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law.
+
+Labor Law Posters (https://postings.govdocs.com/#/vxSkbztPuAwwxfs)
+
+EEO including Disability/Protected Veterans <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="f4f33faa5fc64e7ab373028ac6cdd1409028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-01T03:04:14"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">263553448</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">9a94ca4cd2eb4b3ea36ce2a3e746af72</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/9a94ca4cd2eb4b3ea36ce2a3e746af729028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Service Specialist (Anchorage 5th Avenue Mall R262)]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">37582</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Apple</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">94-2404110</OrganizationTaxID><OrganizationEmail>tia9f6290f4436e5a2351f12e03b6433c3c@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">37582</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>Apple</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">94-2404110</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-4051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1041.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-4051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1041.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-4051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1151.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-4051.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1151.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1232.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">43-4051.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[As a Service Specialist, you help new owners get started and current ones get quick, efficient support - developing strong, positive relationships with Apple. When a customer needs assistance, you quickly assess their situation. Sometimes you take care of customers with advice or a solution on the spot, using your knowledge of current Apple technology to help with iPod, iPhone, and iPad devices. At other times, you refer customers to support team members who get them up and running again. You even provide personal training for new customers, helping them acquire the basic skills they need to get started on photo, video, and music projects. The entire store team benefits from your commitment to providing the best care for customers. By helping Apple maintain strong relationships with customers, you are instrumental to our success. Apple is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="9a94ca4cd2eb4b3ea36ce2a3e746af729028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-03-12T04:27:51"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">256720302</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">32d84f3474534d5a90a10b90d48e4463</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/32d84f3474534d5a90a10b90d48e44639028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Vehicle Maintenance - Denali National Park]]></PositionTitle><PositionLocation><LocationName>AK-Denali National Park</LocationName><ReferenceLocation><oa:CityName>Denali National Park</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99755</oa:PostalCode><SpatialLocation><Latitude>63.6259</Latitude><Longitude>-150.9031</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">57547</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">ARAMARK</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">23-2573585</OrganizationTaxID><OrganizationEmail>tia8b3418da37bac201de3ab4fa338d4714@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">57547</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>ARAMARK</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">23-2573585</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-3031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-9042.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-9042.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-3031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-3031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-9071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-9071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-3031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-3031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-9071.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[<p><strong>Job Description</strong></p>
+<p>Performs journeyman level work during: Diagnostics, repair, and maintenance of buses and related vehicular equipment with little or no supervision. Directs shop employees with mutual respect and resolves any conflicts in a mature manor with the assistance of the Fleet Manager and or Shop Foreman. Trains and gives guidance to lower-level technicians. Reports to Fleet Manager and Shop Foreman</p>
+<p><strong>Job Responsibilities</strong></p>
+<ul>
+<li>
+<p>Diagnose and repair mechanical, electrical and engine defects on buses and other automotive equipment.</p>
+</li>
+<li>
+<p>Makes roadside repairs as required.</p>
+</li>
+<li>
+<p>Repairs and replaces seats, glass, sheet metal, latches, and other body components and assemblies.</p>
+</li>
+<li>
+<p>Changes oil, filters, lubricates chassis, and other general preventative maintenance repairs as well as any other required inspections.</p>
+</li>
+<li>
+<p>Performs annual DOT inspections per federal and Aramark guidelines</p>
+</li>
+<li>
+<p>Mounts and dismounts tires on buses as well as support equipment</p>
+</li>
+<li>
+<p>Operates battery chargers, welding equipment, and machines required for performing repair and maintenance of motor vehicles.</p>
+</li>
+<li>
+<p>Assists in cleaning and organization of the shop.</p>
+</li>
+<li>
+<p>Operates a desktop computer to complete work orders and to charge out parts as required.</p>
+</li>
+<li>
+<p>Performs related duties as assigned.</p>
+</li>
+<li>
+<p>Assist in training of lower level technicians.</p>
+</li>
+<li>
+<p>Employee is responsible for general knowledge of corporate environmental policies and procedures and how they relate to their job functions.</p>
+</li>
+<li>
+<p>Environmental objectives and targets will be communicated by dept. managers for each dept. during EMS</p>
+</li>
+</ul>
+<p><strong>Qualifications</strong></p>
+<p><strong>Education and Experience</strong></p>
+<ul>
+<li>
+<p>High school graduation or equivalent.</p>
+</li>
+<li>
+<p>Completion of a recognized apprenticeship as an automotive mechanic or full journeyman status as an automotive and diesel mechanic.</p>
+</li>
+<li>
+<p>A minimum of four years applicable work experience in a heavy duty truck or bus shop facility.</p>
+</li>
+<li>
+<p>Allowable substitution: Alternative combinations of technical training and work experience will be evaluated by the Fleet Manager for comparability.</p>
+</li>
+</ul>
+<p><strong>Knowledge, Skills &amp; Ability</strong></p>
+<ul>
+<li>
+<p>Experience in repair of all vehicular equipment.</p>
+</li>
+<li>
+<p>Experience in all areas of preventive maintenance.</p>
+</li>
+<li>
+<p>Experience in troubleshooting equipment problems.</p>
+</li>
+<li>
+<p>Experience in operation of various tools and equipment as required.</p>
+</li>
+</ul>
+<p><strong>About Aramark</strong></p>
+<p><strong>Our Mission</strong></p>
+<p>Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.</p>
+<p>At Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.</p>
+<p><strong>About Aramark</strong></p>
+<p>The people of Aramark proudly serve millions of guests every day through food, facilities, and uniform services in 19 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at  <a href="http://www.aramarkcareers.com">http://www.aramarkcareers.com</a>  or connect with us on  Facebook ,  Instagram  and  Twitter .  </p>  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="32d84f3474534d5a90a10b90d48e44639028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-04-09T05:08:36"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">258136443</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">3448f4808abd40e1b01cd607887b06ce</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/3448f4808abd40e1b01cd607887b06ce9028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Eareckson Air Station (EAS),  Job Opportunities]]></PositionTitle><PositionLocation><LocationName>AK-Adak</LocationName><ReferenceLocation><oa:CityName>Adak</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99546</oa:PostalCode><SpatialLocation><Latitude>51.8777</Latitude><Longitude>-176.6589</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">ASRC Federal Holding Company</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID><OrganizationEmail>tia925559fde5160c346e0bcf409e46efb9@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>ASRC Federal Holding Company</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-2021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-6031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-6031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-2021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-2021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-6031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-2021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-6031.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">49-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-2021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[ASRC Federal Communications Ltd, is seeking a variety of skillsets to work at our remote location at Eareckson Air Station, which is in Shemya, AK, located on the Aleutian Islands in Alaska.
+
+Our team provides a wide range of remote location operations and maintenance (O&M) services, for our Airforce customer, to include facilities management, infrastructure maintenance, fire protection, supply chain logistics, and aircraft refueling.
+
+Our employees will work a unique rotational schedule, with three (3) months working on-site at EAS, and one (1) month off unpaid. While working on-site, housing is provided in the form of a dormitory facility. All meals are furnished through the cafeteria. While you are working on-site, you work a 48-hour work week.
+
+Transportation to Eareckson Air Station from Anchorage, AK, is provided by government sponsored aircraft.
+
+**We have a variety of openings available at any given time, including:**
+
++ Electricians
+
++ HVAC
+
++ Plumbers
+
++ Laborers
+
++ Aircraft Servicers
+
++ Firefighters
+
++ Culinary Workers
+
++ General Maintenance Worker
+
++ Motor Vehicle Maintenance
+
++ Environmental Technician
+
++ And More
+
+At ASRC Federal Communications Ltd, we honor our responsibility to take care of our employees and ensure our employees' commitment to customer missions is rewarded and recognized. We offer benefits in accordance with the union CBA for represented positions.
+
+**About ASRC Federal:**
+
+ASRC Federal is the government services subsidiary of Arctic Slope Regional Corporation, an Alaska Native Corporation owned by nearly 14,000 Iñupiat shareholders. Our family of companies provides a broad range of services and technical expertise to federal government agencies - with operations spanning 44 states, districts and territories - led by a highly-skilled, purpose-driven and diverse team of over 8,000 employees who are committed to helping customers achieve successful mission outcomes.
+
+**Requirements** :
+
+This is a General Consideration listing for positions at EAS and does not represent a specific opening.
+
+ASRC Federal and its Subsidiaries are Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="3448f4808abd40e1b01cd607887b06ce9028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-04-12T04:19:24"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">258308247</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">f65cda1dbe1f4bdc97924ca87e6f82d3</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/f65cda1dbe1f4bdc97924ca87e6f82d39028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Heavy Equipment Operator]]></PositionTitle><PositionLocation><LocationName>AK-Adak</LocationName><ReferenceLocation><oa:CityName>Adak</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99546</oa:PostalCode><SpatialLocation><Latitude>51.8777</Latitude><Longitude>-176.6589</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">ASRC Federal Holding Company</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID><OrganizationEmail>tia925559fde5160c346e0bcf409e46efb9@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>ASRC Federal Holding Company</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.01</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-3032.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-3032.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-3032.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-2073.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">53-3032.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[ASRC Federal Communications is seeking a Heavy Equipment Operator for our ISS2 contract supporting our Air Force customer. This position is located on Earackson Air Station.
+
+This is a rotational position in which the selected employee will work a schedule with 3 months on-site at Wake Island, and 1 month off unpaid.  While working on-site, housing is provided in the form of a dormitory facility.  All meals are furnished through the cafeteria.
+
+Transportation to EAS from Anchorage, AK, is provided by government sponsored aircraft.
+
+**General Summary**
+
+The Heavy Equipment Operator operates heavy equipment including, but not limited to cranes, snowplows, dump trucks, sweepers, power shovels, loaders, and large industrial tractors. The Operator uses equipment to excavate, load, or move dirt, gravel, snow, and other materials.
+
+This is a rotational position working 3-on and 1-off schedule, located at Eareckson Air Station (EAS), Sheyma, AK. While working on-site housing is provided in the form of a dormitory facility. All meals are furnished through the cafeteria. Transportation to EAS from Anchorage, AK is provided by government sponsored aircraft.
+
+**Essential Duties and Job Functions**
+
++ Operate heavy equipment attachments including, multipurpose buckets, forklifts, wenches, booms, impactors, and grapplers.
+
++ Operate heavy equipment to haul, dump, spread, excavate, backfill, level, and grade various soil and stabilizing materials.
+
++ Operate heavy equipment to excavate and backfill underground utility installations.
+
++ Determine the rigging and loading securing methods and devices following OSHA and DOT standards.
+
++ Interpret and grade slope stakes, sketches, and plans.
+
++ Use proper hand and arm signals to direct and spot equipment operators.
+
++ Operate equipment for sweeping runways, taxiways, roads, parking areas, etc.
+
++ Grade gravel and dirt roads.
+
++ Repair runway, taxiway, ramp, and road surfaces.
+
++ Determine necessary materials, tools, and equipment.
+
++ Perform preventative and daily operator inspections and maintenance and report discrepancies to supervisor.
+
++ Remove snow from road and pavement surfaces using various types of snow plows, snow blowers, sweepers, and other equipment.
+
++ Use and maintain tools and equipment.
+
++ Perform routine maintenance, servicing, and emergency repairs to equipment.
+
++ Respond to operational situations.
+
++ Serves as Fuel and re-supply barge augmentee.
+
++ Perform duties for the Emergency Response Team.
+
++ Perform related work as assigned.
+
+**Requirements** :
+
+**Minimum Qualifications**
+
++ High school diploma or equivalent.
+
++ Certified Heavy Equipment Operator.
+
++ Certified Crane Operator.
+
++ Four (4) years of experience with heavy construction-type equipment
+
++ Valid state driver's license with an acceptable driving record.
+
++ Pass a National Agency Background Check with Inquires.
+
++ Pass a pre-employment physical and drug test.
+
++ U.S. citizen
+
+**Preferred Qualifications**
+
++ Previous experience working on a military installation.
+
++ Previous experience working in a remote location.
+
+ASRC Federal and its Subsidiaries are Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="f65cda1dbe1f4bdc97924ca87e6f82d39028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-07T02:54:11"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">263835856</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">2e55930cc775487091ad68cded582d8d</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/2e55930cc775487091ad68cded582d8d9028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Electrical Administrator]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">ASRC Federal Holding Company</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID><OrganizationEmail>tia925559fde5160c346e0bcf409e46efb9@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">41985</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>ASRC Federal Holding Company</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">20-0122200</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">17-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.01</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">17-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">17-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">17-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9021.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">17-2071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[ASRC Federal Communications is seeking an Electrical Administrator for our ISS2 contract supporting our US Air Force customer. Position is located at the Project Headquarters in Anchorage, AK. This position plays a critical role in overseeing and managing all aspects of electrical operations within ASRC Communications, Ltd (ASRCC). Ensures that all electrical projects, including HVAC and solar installations, are completed safely, efficiently, and in compliance with relevant codes and regulations. The Electrical Administrator is responsible for project management, safety compliance, technical support, documentation, and team leadership.
+
+**Tasks & Responsibilities**
+
++ Oversee and manage electrical project to include HVAC and solar installations.
+
++ Coordinate pre-construction electrical activities, to include planning, cost estimates, scope of work and scheduling.
+
++ Work closely with other construction trades in order to ensure coordinated project activities and timely completions.
+
++ Provide cost estimates for materials and services for job proposals.
+
++ Ensure all projects are executed on schedule, within budget, and meet quality and safety standards.
+
++ Work directly with project managers, engineers and electricians to develop detailed project plans.
+
++ Ensure all electrical work adheres to local, state and national electric codes and standards.
+
++ Conduct electrical assessments and inspection activities.
+
++ Provide technical support and guidance to installation crews.
+
++ Diagnose, troubleshoot and resolve complex electrical issues in collaboration with Electrical Lead.
+
++ Stay informed about the latest advancements and trends in the electrical, HVAC and solar industries.
+
++ Maintain detailed records of electrical work, including blueprints and project documentation.
+
++ Ensure that all customer needs are met in a timely manner with tailored solutions.
+
++ Address and resolve customer concerns and/or issues with electrical installations.
+
++ Foster a collaborative, positive and productive work environment.
+
++ Attend meetings, conferences and events as designated by supervisor.
+
++ Assist with recruitment and hiring activities through HR for electricians.
+
+**Knowledge, Skills and Abilities:**
+
++ Exceptional interpersonal, organizational and communication skills, integrity, respect for confidentiality, sound judgment and decision-making skills.
+
++ Complete understanding of the skills required for all lower classifications.
+
++ Must have strong time management skills.
+
++ Self-motivated and able to grasp new concepts quickly.
+
++ Willing and able to multi-task.
+
++ Ability to take initiative to identify and propose new tasks and procedures.
+
++ Ability to perform detailed work with a high degree of accuracy on multiple, concurrent tasks with frequent interruptions.
+
++ Knowledge of relevant regulations, policies, procedures, and strategies to ensure environment and safety standards, including occupational hazards and safety precautions, industry standard practices and procedures involved in building and modernization efforts.
+
++ Ability to interpret technical plans, specifications, blueprints and drawings and apply design techniques, tools, and principles involved for production.
+
++ Ability to make sound decisions in developing, preparing, proposing and executing construction projects/plans.
+
++ Knowledge of planning, developing and monitoring construction project budgets specific to electrical work/activities.
+
++ Thorough knowledge of current National Electrical Codes (NEC) and amendments by local entities and the State of Alaska.
+
++ Ability to perform computer and technology functions with proficiency, specifically in word processing, database and spreadsheet programs.
+
++ Ability to learn and apply complex written policies, procedures and compliance regulations.
+
++ Ability to make sound judgment in designing and installing electrical systems.
+
++ Ability to plan, organize and direct construction activities.
+
++ Ability to direct and supervise Electrical personnel.
+
++ Ability to communicate effectively, orally and in writing.
+
++ Ability to read blueprints and write specifications as they pertain to procurement of materials, supplies and equipment.
+
+**Requirements** :
+
+**Required Qualifications:**
+
++ Electrical Administrator's license with the State of Alaska and a Journeyman's certification active in the State of Alaska.
+
++ Ten years progressive experience in electrical work with a preferred focus on HVAC and solar, which includes at least one year of supervisory experience.
+
++ Ability to represent ASRCC in the highest level of professionalism.
+
++ Ability and willingness to travel extensively to remote areas, including extended and overnight travel, in performing functions of this position regardless of the time of year. Must be able to travel in small aircraft and must be able to travel up to approximately 25-35% of position time.
+
++ Capable of effectively working with a variety of personalities
+
++ Must be able to pass background check and drug screen.
+
++ Must be able to obtain a SECRET clearance.
+
++ Must hold a valid driver's license.
+
+**Preferred:**
+
++ Four-year degree electrical engineering or similar
+
++ Six years progressive experience in electrical work in remote Alaska
+
+**Physical Demands:**  During site visits/inspections, frequently climb ladders, some crawling and crouching, frequent long periods of walking and standing. Requires good manual dexterity and multi-limb coordination. Ability to work long days/hours and in remote areas and in inclement weather conditions.
+
+ASRC Federal and its Subsidiaries are Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="2e55930cc775487091ad68cded582d8d9028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-09T03:26:43"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">263965609</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">2ed469280dc74669b45d179e6d649a42</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/2ed469280dc74669b45d179e6d649a429028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Project Administrator]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Aston Carter</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID><OrganizationEmail>tia3f273fb1190e461e2e3bde1b65c04864@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>Aston Carter</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.01</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[Job Title: Construction Project Administrator
+
+Job Description
+
+We are seeking a Construction Project Administrator to assist in document control, payroll, and billing/invoicing tasks. The ideal candidate will process invoices using an ERP system (preferred but not required), enter payroll and timesheets into the system, ensure compliance, and process insurance bonds and forms.
+
+Hard Skills
+
++ 2+ Years of construction project administrator or project coordinator experience
+
++ 2+ Years of experience managing certified payroll, billing and invoicing, and construction document control
+
++ 2+ Years of SharePoint software experience
+
++ Proficiency in Excel, including formulas and pivot tables
+
++ Will consider self starting, fresh graduates with a Business Admin, Construction or similar type of degree
+
+Qualifications
+
++ Sharepoint
+
++ MS Project
+
++ MS Excel
+
++ Insurance bonds
+
++ CMIC
+
++ ERP
+
+Work Environment
+
+$25-32 / hour.
+
+This is a Contract-to-Hire position with a duration of 12 Month(s). 
+
+This is a fully on-site position in Anchorage, Alaska.
+
+The role requires working on the jobsite in a work trailer from Monday to Friday with a 7:00 am start time. (Overtime is occassional.)
+
+ About Aston Carter: 
+
+Aston Carter provides world-class corporate talent solutions to thousands of clients across the globe. Specialized in accounting, finance, human resources, talent acquisition, procurement, supply chain and select administrative professions, we extend the capabilities of industry-leading companies. We draw on our deep recruiting expertise and expansive network to meet the evolving needs of our clients and talent community with agility and excellence. With offices across the U.S., Canada, Asia Pacific and Europe, Aston Carter serves many of the Fortune 500. We are proud to be a ClearlyRated Best of Staffing® double diamond winner for both client and talent service.
+
+ Diversity, Equity & Inclusion 
+
+At Aston Carter, diversity and inclusion are a bridge towards the equity and success of our people. DE&I are embedded into our culture through:
+
++ Hiring diverse talent
+
++ Maintaining an inclusive environment through persistent self-reflection
+
++ Building a culture of care, engagement, and recognition with clear outcomes
+
++ Ensuring growth opportunities for our people
+
+The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please email astoncarteraccommodation@astoncarter.com (%20astoncarteraccommodation@astoncarter.com)  for other accommodation options.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="2ed469280dc74669b45d179e6d649a429028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-09T03:26:45"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">263965716</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">ea659faf54bc428a8d8bf4d8fddb5985</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/ea659faf54bc428a8d8bf4d8fddb59859028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Project Administrator]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Aston Carter</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID><OrganizationEmail>tia3f273fb1190e461e2e3bde1b65c04864@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>Aston Carter</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.01</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[Job Title: Construction Project Administrator
+
+Job Description
+
+We are seeking a Construction Project Administrator to assist in document control, payroll, and billing/invoicing tasks. The ideal candidate will process invoices using an ERP system (preferred but not required), enter payroll and timesheets into the system, ensure compliance, and process insurance bonds and forms.
+
+Hard Skills
+
++ 2+ Years of construction project administrator or project coordinator experience
+
++ 2+ Years of experience managing certified payroll, billing and invoicing, and construction document control
+
++ 2+ Years of SharePoint software experience
+
++ Proficiency in Excel, including formulas and pivot tables
+
++ Will consider self starting, fresh graduates with a Business Admin, Construction or similar type of degree
+
+Job Type
+
+This is a Contract-to-Hire position with a duration of 12 Month(s).
+
+Work Site
+
+This is a fully on-site position in Anchorage, Alaska.
+
+Work Environment
+
+The role requires working on the jobsite in a work trailer from Monday to Friday with a 7:00 am start time.
+
+ About Aston Carter: 
+
+Aston Carter provides world-class corporate talent solutions to thousands of clients across the globe. Specialized in accounting, finance, human resources, talent acquisition, procurement, supply chain and select administrative professions, we extend the capabilities of industry-leading companies. We draw on our deep recruiting expertise and expansive network to meet the evolving needs of our clients and talent community with agility and excellence. With offices across the U.S., Canada, Asia Pacific and Europe, Aston Carter serves many of the Fortune 500. We are proud to be a ClearlyRated Best of Staffing® double diamond winner for both client and talent service.
+
+ Diversity, Equity & Inclusion 
+
+At Aston Carter, diversity and inclusion are a bridge towards the equity and success of our people. DE&I are embedded into our culture through:
+
++ Hiring diverse talent
+
++ Maintaining an inclusive environment through persistent self-reflection
+
++ Building a culture of care, engagement, and recognition with clear outcomes
+
++ Ensuring growth opportunities for our people
+
+The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please email astoncarteraccommodation@astoncarter.com (%20astoncarteraccommodation@astoncarter.com)  for other accommodation options.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="ea659faf54bc428a8d8bf4d8fddb59859028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-10T06:36:07"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">264050311</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">2cc4be41f2a84bd6a9a18f227595017d</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/2cc4be41f2a84bd6a9a18f227595017d9028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Project Administrator]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Aston Carter</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID><OrganizationEmail>tia3f273fb1190e461e2e3bde1b65c04864@directemployers.org</OrganizationEmail><OrganizationID schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID schemeName="FedCntr">1</OrganizationID><OrganizationID schemeName="StaffingFirm">0</OrganizationID><OrganizationName>Aston Carter</OrganizationName><OrganizationTaxID schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID></OrganizationIdentifiers><IndustryCode listName="2DigitNAICS" listAgencyName="USCommerceDept" listSchemeURI="http://www.census.gov/econ/isp/index.php"/><oa:Description/><InternetDomainName/></PositionOrganization><PositionOpenQuantity>1</PositionOpenQuantity><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="3" name="O*NET 3.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/102-onet3" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.01</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="14" name="O*NET 14.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/90-onet14" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1071.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="16" name="O*NET 16.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/107-onet16" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">15-1142.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">11-9199.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="17" name="O*NET 17.0" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet17" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">47-1011.00</JobCategoryCode><JobCategoryCode listAgencyName="USLaborDept" listName="O*NET" listVersionID="25" name="O*NET 25.1" listURI="http://www.xwalkcenter.org/index.php/component/content/article/83-onetinfo/108-onet25" listSchemeURI="http://www.onetcenter.org/taxonomy.html">99-9999.99</JobCategoryCode><PositionFormattedDescription><Content><![CDATA[Job Title: Construction Project Administrator
+
+Job Description
+
+We are seeking a Construction Project Administrator to assist in document control, payroll, and billing/invoicing tasks. The ideal candidate will process invoices using an ERP system (preferred but not required), enter payroll and timesheets into the system, ensure compliance, and process insurance bonds and forms.
+
+Hard Skills
+
++ 2+ Years of construction project administrator or project coordinator experience
+
++ 2+ Years of experience managing certified payroll, billing and invoicing, and construction document control
+
++ 2+ Years of SharePoint software experience
+
++ Proficiency in Excel, including formulas and pivot tables
+
++ Will consider self starting, fresh graduates with a Business Admin, Construction or similar type of degree
+
+Qualifications
+
++ Sharepoint
+
++ MS Project
+
++ MS Excel
+
++ Insurance bonds
+
++ CMIC
+
++ ERP
+
+Work Environment
+
+$25-32 / hour.
+
+This is a Contract-to-Hire position with a duration of 12 Month(s). 
+
+This is a fully on-site position in Anchorage, Alaska.
+
+The role requires working on the jobsite in a work trailer from Monday to Friday with a 7:00 am start time. (Overtime is occassional.)
+
+ About Aston Carter: 
+
+Aston Carter provides world-class corporate talent solutions to thousands of clients across the globe. Specialized in accounting, finance, human resources, talent acquisition, procurement, supply chain and select administrative professions, we extend the capabilities of industry-leading companies. We draw on our deep recruiting expertise and expansive network to meet the evolving needs of our clients and talent community with agility and excellence. With offices across the U.S., Canada, Asia Pacific and Europe, Aston Carter serves many of the Fortune 500. We are proud to be a ClearlyRated Best of Staffing® double diamond winner for both client and talent service.
+
+ Diversity, Equity & Inclusion 
+
+At Aston Carter, diversity and inclusion are a bridge towards the equity and success of our people. DE&I are embedded into our culture through:
+
++ Hiring diverse talent
+
++ Maintaining an inclusive environment through persistent self-reflection
+
++ Building a culture of care, engagement, and recognition with clear outcomes
+
++ Ensuring growth opportunities for our people
+
+The company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.
+
+If you would like to request a reasonable accommodation, such as the modification or adjustment of the job application process or interviewing process due to a disability, please email astoncarteraccommodation@astoncarter.com (%20astoncarteraccommodation@astoncarter.com)  for other accommodation options.  <script id="detrack" defer src="https://d2e48ltfsb5exy.cloudfront.net/p/t.js?i=0,1" data-g="2cc4be41f2a84bd6a9a18f227595017d9028"></script>]]></Content></PositionFormattedDescription></PositionProfile></PositionOpening><PositionOpening validFrom="2024-08-11T05:22:13"><DocumentID schemeName="UniqueStateID" schemeAgencyName="DirectEmployers">264070027</DocumentID><AlternateDocumentID schemeName="JobID" schemeAgencyName="DirectEmployers">1caa847f81f64e89b7fd45da5fbd0957</AlternateDocumentID><PositionOpeningStatusCode>Active</PositionOpeningStatusCode><statejob>0</statejob><PostingRequester><PartyName>DirectEmployersAssn</PartyName><Communication><ChannelCode>Telephone</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749000</oa:DialNumber><oa:Extension/><oa:Access/></Communication><Communication><ChannelCode>Fax</ChannelCode><UseCode>Business</UseCode><oa:CountryDialing>011</oa:CountryDialing><oa:AreaDialing>317</oa:AreaDialing><oa:DialNumber>8749100</oa:DialNumber><oa:Extension/><oa:Access/></Communication></PostingRequester><PositionProfile><PostingInstruction><ApplicationMethod><Instructions/><Communication><ChannelCode>Web</ChannelCode><oa:URI>https://de.jobsyn.org/1caa847f81f64e89b7fd45da5fbd09579028</oa:URI></Communication></ApplicationMethod></PostingInstruction><PositionTitle><![CDATA[Project Administrator]]></PositionTitle><PositionLocation><LocationName>AK-Anchorage</LocationName><ReferenceLocation><oa:CityName>Anchorage</oa:CityName><oa:CountrySubDivisionCode listID="US States">AK</oa:CountrySubDivisionCode><CountryCode>USA</CountryCode><oa:PostalCode>99509</oa:PostalCode><SpatialLocation><Latitude>61.1793</Latitude><Longitude>-149.8709</Longitude></SpatialLocation></ReferenceLocation><Address/></PositionLocation><PositionOrganization><OrganizationIdentifiers><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="BUID" schemeAgencyName="DirectEmployers">52999</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="Member" schemeAgencyName="DirectEmployers">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="FedCntr">1</OrganizationID><OrganizationID xmlns="http://www.hr-xml.org/3" schemeName="StaffingFirm">0</OrganizationID><OrganizationName xmlns="http://www.hr-xml.org/3">Aston Carter</OrganizationName><OrganizationTaxID xmlns="http://www.hr-xml.org/3" schemeName="FEIN" schemeAgencyName="InternalRevenueService">52-1822806</OrganizationTaxID><OrganizationEmail>tia3f273fb1190e461e2e3bde1b65c04864@directemployers.org</OrganizationEmail></OrganizationIdentifiers></PositionOrganization></PositionProfile></PositionOpening></ProcessPositionOpening>
